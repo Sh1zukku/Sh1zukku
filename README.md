@@ -1,1 +1,2 @@
-# projectb README
+# README
+I hate you yall
